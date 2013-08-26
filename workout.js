@@ -7,7 +7,7 @@ $(function () {
 		'Plank',
 		'Low jacks',
 		'Plank jacks',
-		'Squat jumps',
+		'Squat jump',
 		'Skip',
 		'Bicep curl',
 		'Jack knife abs',
@@ -17,6 +17,8 @@ $(function () {
 		'Reverse crunch',
 		'Scissor legs',
 		'Flys',
+		'Upright row',
+		'Bent over row',
 		'Superman',
 		'Weighted squats',
 		'Superman + levitate',
@@ -37,7 +39,16 @@ $(function () {
 		'Hop on one leg',
 		'Rocket launcher',
 		'Lunge and twist',
-		'Crunch and twist'
+		'Crunch and twist',
+		'Tuck jump',
+		'Spiderman push up',
+		'Leg drop crunch',
+		'Crunch and press',
+		'Bridge thrust',
+		'Tuck abs',
+		'Tri dip',
+		'Tri abs',
+		'Push up burpee'
 	];
 
 	var getExercise = function() {
